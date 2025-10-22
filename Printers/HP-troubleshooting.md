@@ -2,7 +2,7 @@
 Because every printer has its attitude, and every tech has her patience 😅  
 
 ## 1️⃣ Power First  
-Start simple — check if the printer’s even alive.  
+Start simple — check if the printer’s even alive. 
 
 No power?  
 - Try another power cable or wall socket.  
