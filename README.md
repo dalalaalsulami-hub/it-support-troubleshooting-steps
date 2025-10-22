@@ -9,3 +9,5 @@ Focused on real issues I solved during my internship at KFMMC and beyond.
 - Hardware & preventive maintenance  
 
 _Under maintenance 🚧 — constantly improving these guides._
+> 💡 *These notes reflect real troubleshooting experience gained during my internship at KFMMC, and are continuously updated as I learn more about enterprise IT systems.*
+
