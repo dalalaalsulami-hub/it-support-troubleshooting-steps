@@ -1,6 +1,6 @@
 # 👩🏻‍💻 User Accounts & Active Directory — *Draft Notes*
 
-> *Still under construction 🚧 — documenting this once I get more hands-on practice.*
+> *Currently expanding my hands-on experience with Active Directory — documenting concepts as I learn them. 🚧
 
 ## 🧩 What’s Covered (Planned)
 - How to reset a locked user account.
