@@ -4,13 +4,17 @@
 
 ## 🧩 What’s Covered (Planned)
 - How to reset a locked user account.
-- How to add a computer to a domain.
+- How to add a computer to a domain ✅ *(practiced during internship)*
 - How to check user group membership.
 - How to create or disable accounts properly.
 - Best practices for password resets & account security.
 
 ## 🧠 Current Knowledge
 From observation and theory so far:
+💻 **Joined a workstation to the hospital’s domain**
+- Steps: This PC → Properties → Computer Name → Domain → entered domain credentials → “Welcome to the domain”.
+- Purpose: connect the device to centralized authentication via Active Directory.
+
 - Account lookups are done using **Active Directory Users and Computers (ADUC)**.  
 - Password resets and unlocking are done through **right-click → Reset Password / Unlock Account**.  
 - Computer accounts must match the correct **OU (Organizational Unit)** before joining.  
